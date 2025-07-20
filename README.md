@@ -34,8 +34,8 @@ It fetches real-time weather data from the **OpenWeatherMap API** based on the c
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live app](https://kuldeep-dev-stack.github.io/weather-app-js/)  
-_(Replace this link with your actual GitHub Pages live link)_
+👉 [Click here to view the live app](https://kuldeep-dev-stack.github.io/weather-app/)  
+
 
 ---
 
